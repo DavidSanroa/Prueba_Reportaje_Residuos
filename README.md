@@ -1,1 +1,1 @@
-# Aquí voy a escribir algunos apuntes sobre el conjunto de archivos de este repositorio
+#Este es el readme de Banderas de Plástico banderasdeplastico.github.io
